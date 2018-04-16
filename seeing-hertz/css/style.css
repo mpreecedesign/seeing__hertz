@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'SourceSans';
+  src: url('source-sans-variable.ttf') format('truetype-variations');
+}
+
+html {
+  font-family: 'SourceSans', sans-serif;
+}
+
+
+h1 {
+    font-weight: 40;
+}
